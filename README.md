@@ -5,6 +5,6 @@ I'am currently learnig java and android studio.
 
 
 ![screen1](https://r.resimlink.com/pY3.png)
-![screen2](https://resimlink.com/7FpCE)
+![screen2](https://r.resimlink.com/7FpCE.png)
 
 
